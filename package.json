@@ -1,0 +1,10 @@
+{
+  "name": "fakestore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Puneet Karamchandani <jkaramchandani32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.3.1"
+  }
+}
